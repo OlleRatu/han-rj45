@@ -6,6 +6,7 @@
 # Hardware:
 #   Raspberry Pi
 #   M-Bus client adapter connected to gpio uart
+#       https://www.mikroe.com/m-bus-slave-click
 #
 # This reader does not handle multi frame hdlc messages
 #
